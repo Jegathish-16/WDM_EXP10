@@ -36,6 +36,10 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
     
 
 ### Output:
+```
+Name: Jegathish S
+Reg No: 212221230041
+```
 ![image](https://github.com/Prethiveerajan/WDM_EXP10/assets/94233064/a39295e5-e35e-484b-9b32-d1a25de91fdf)
 
 ![image](https://github.com/Prethiveerajan/WDM_EXP10/assets/94233064/960c6418-1bbf-4727-ac6e-234698fefe2f)
